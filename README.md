@@ -1,3 +1,4 @@
 # myfirst - footer for Yummy
-hi this is my first test
-that is amazing
+hi this is my first test.
+that is amazing.
+nice work.
